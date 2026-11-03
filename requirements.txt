@@ -29,11 +29,15 @@ streamlit
 
 # Document Processing
 pypdf
-beautifulsoup4
 
 # Search
 wikipedia
 ddgs
 tavily-python
 
+# Web scraping
+beautifulsoup4
+readability-lxml
+trafilatura
+lxml
 
