@@ -1,0 +1,31 @@
+# Environment variables
+.env
+.env.*
+
+# Jupyter notebooks
+notebooks/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# data
+data/
+vector_db/

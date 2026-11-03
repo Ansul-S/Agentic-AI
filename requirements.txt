@@ -1,0 +1,39 @@
+
+# Core
+pydantic[email]
+python-dotenv
+requests
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+langchainhub
+langchain-classic
+
+# LLM Providers
+langchain-groq
+langchain-google-genai
+langchain-ollama
+langchain-openai
+langchain-mistralai
+
+# Vector Database
+langchain-chroma
+chromadb
+
+# Application
+streamlit
+
+# Document Processing
+pypdf
+beautifulsoup4
+
+# Search
+wikipedia
+ddgs
+tavily-python
+
+
