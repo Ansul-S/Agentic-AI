@@ -1,7 +1,4 @@
-from src.tools.tools import scrape_url
+from src.pipelines.pipeline import run_research_pipeline
 
-results = scrape_url.invoke({
-    "url": "https://www.formula1.com/"
-})
-
-print(results)
+topic = "The impact of AI on the Job market in October 2026?"
+run_research_pipeline(topic)
